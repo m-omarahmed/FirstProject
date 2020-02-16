@@ -7,8 +7,8 @@ public class HelloWorld {
     private List<Holiday> holidays;
     private String message;
    
-    public void setMessage(String message) {
-        this.message = message;
+    public void setMessage(String msg) {
+        this.message = msg;
     }
 
     public void setHolidays(List<Holiday> holidays) {
